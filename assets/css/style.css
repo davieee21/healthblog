@@ -360,6 +360,12 @@ body.active { overflow: hidden; }
   gap: 15px;
 }
 
+.header .logo {
+  width: 500px; 
+  height: auto; 
+}
+
+
 .search-btn { font-size: 28px; }
 
 .search-btn ion-icon { --ionicon-stroke-width: 50px; }
